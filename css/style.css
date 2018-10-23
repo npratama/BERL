@@ -14,6 +14,7 @@
 	color: #C18113;
 }
  
-.btn-shadow{
+.btn-shadow, .card-shadow{
 	box-shadow: 0px 3px 6px 0px #888888;
 }
+
