@@ -1,9 +1,9 @@
 .navbar{
-	background-color:black;
+	
 }
 
 .nav-item{
-		border-top:5px solid black !important;
+		border-top:5px solid #343A40 !important;
 }
 
 .select_nav{
