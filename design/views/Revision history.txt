@@ -1,0 +1,20 @@
+==================================================
+Website Views Design
+==================================================
+
+Rev     : 0.4
+Date    : 2018/10/27
+By      : rendbacklaysh
+Changes :
+
+  File    : WF-01-Register
+  Artboard: Register
+    - Add input text "Alamat Anda"
+  Artboard: Thanks
+    - New
+    
+  File    : WF-02-Admin
+  Artboard: All
+    - New
+
+==================================================
