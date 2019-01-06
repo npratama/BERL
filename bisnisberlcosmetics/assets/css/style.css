@@ -1,6 +1,4 @@
-.navbar{
-	
-}
+
 .thumbnail {
     position: relative;
 }
@@ -16,9 +14,7 @@
     left: 0;
     width: 100%;
 }
-.nav-item{
-		border-top:5px solid #343A40 !important;
-}
+
 
 
 .highlight{
